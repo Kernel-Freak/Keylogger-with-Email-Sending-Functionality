@@ -30,6 +30,10 @@ This Python script captures keystrokes using the `pynput` library and periodical
 
 ### Installation
 1. Clone the repository or download the script.
+   ```sh
+   git clone https://github.com/Kernel-Freak/Keylogger-with-Email-Sending-Functionality
+   cd Keylogger-with-Email-Sending-Functionality
+   ```
 2. Install required dependencies:
    ```sh
    pip install pynput
@@ -71,4 +75,6 @@ For any queries or issues, please contact samratmandal423@gmail.com.
 ---
 ## License
 This project is for **learning purposes only**. The author is not responsible for any misuse of this script.
+
+
 
