@@ -48,7 +48,7 @@ This Python script captures keystrokes using the `pynput` library and periodical
 ### Running the Application
 Execute the following command in your terminal:
 ```sh
-python keylogger.py
+python3 keylogger.py
 ```
 To stop the script, press the **Escape (ESC)** key.
 
